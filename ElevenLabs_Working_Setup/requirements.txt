@@ -1,0 +1,1 @@
+elevenlabs @ git+https://github.com/elevenlabs/elevenlabs-python.git
